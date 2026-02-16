@@ -6,6 +6,7 @@ This is my personal portfolio website built using HTML and CSS.
 
 <img src="s1.jpg" width="90%">
 <img src="s2.jpg" width="90%">
+<img src="s3.jpg" width="90%">
 
 ## ✨ Features
 - About section
