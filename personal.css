@@ -5,7 +5,6 @@
     --link: #7dd3fc;
 }
 
-/* PAGE BACKGROUND */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -19,7 +18,6 @@ body {
     overflow-x: hidden;
 }
 
-/* BACKGROUND STARS */
 body::before {
     content: "";
     position: fixed;
@@ -33,7 +31,6 @@ body::before {
     z-index: -1;
 }
 
-/* STAR CURSOR */
 .star-cursor {
     position: fixed;
     font-size: 18px;
@@ -44,7 +41,6 @@ body::before {
     text-shadow: 0 0 15px rgba(253,224,71,1);
 }
 
-/* CURSOR TRAIL */
 .cursor-star {
     position: fixed;
     width: 3px;
@@ -56,7 +52,6 @@ body::before {
     z-index: 999;
 }
 
-/* HEADER */
 header {
     padding: 60px 20px;
     text-align: center;
